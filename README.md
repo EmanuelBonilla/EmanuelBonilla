@@ -2,7 +2,7 @@
 
 ###
 
-My name is [Anth](https://www.linkedin.com/in/diego-emanuel-bonilla-soler-a1857a225) and I'm a FullStack,SRE and Game developer, from Colombia
+My name is [Anth](https://www.linkedin.com/in/diego-emanuel-bonilla-soler-a1857a225) and I'm a FullStack, SRE and Game developer, from Colombia
 
 
 ###
