@@ -76,6 +76,8 @@ My name is [Anth](https://www.linkedin.com/in/diego-emanuel-bonilla-soler-a1857a
   <img width="12" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"  />
